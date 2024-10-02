@@ -13,3 +13,4 @@ pandas
 torch
 torchvision
 torchsummary
+sounddevice
